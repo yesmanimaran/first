@@ -1,8 +1,11 @@
 //date functions
 New date function are
- //
+ // gives the date difference
  Date dateDiff(Date oldDate, Date newDate);
- //
+ // formats the time 
  String prettyTime(Date date);
+ //Converts to timezone specific date
+ Date convertToTimeZoneSpecificDate(Date date, TimeZoneObject tz);
+ 
 
 

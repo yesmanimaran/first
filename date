@@ -1,1 +1,8 @@
 //date functions
+New date function are
+ //
+ Date dateDiff(Date oldDate, Date newDate);
+ //
+ String prettyTime(Date date);
+
+

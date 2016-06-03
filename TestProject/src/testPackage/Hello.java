@@ -10,6 +10,7 @@ public class Hello
 
 		System.out.println("Local Changes");
 		System.out.println("You can do anything with GIT !!! Enjoy!!!");
+		System.out.println("Expecting Conflicts");
 	}
 
 }
